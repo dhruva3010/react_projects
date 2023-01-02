@@ -1,4 +1,4 @@
-# Getting Started with Create React App and MUI
+# Getting Started with Create React App and MUI (Counter example)
 
 This project was bootstrapped with MUI.
 
